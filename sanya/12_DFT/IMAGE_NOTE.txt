@@ -1,0 +1,1 @@
+This input.jpg is a sample image prepared for: Compute the 2D DFT and shift the frequency representation.

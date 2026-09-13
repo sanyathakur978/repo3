@@ -1,0 +1,1 @@
+This input.jpg is a sample image prepared for: Apply Mean, Gaussian and Median filters to the same noisy image.

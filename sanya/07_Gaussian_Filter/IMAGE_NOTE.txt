@@ -1,0 +1,1 @@
+This input.jpg is a sample image prepared for: Apply Gaussian smoothing to the noisy image.

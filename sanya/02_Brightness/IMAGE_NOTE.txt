@@ -1,0 +1,1 @@
+This input.jpg is a sample image prepared for: Increase brightness of the dark input image.

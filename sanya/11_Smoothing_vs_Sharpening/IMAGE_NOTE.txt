@@ -1,0 +1,1 @@
+This input.jpg is a sample image prepared for: Generate smoothed and sharpened outputs from the same input.
