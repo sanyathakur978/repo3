@@ -1,8 +1,8 @@
 # Computer Vision Unit II Programming Assignment
 
-Name: sonakshi choudhary
+Name: sanya
 
-Enrollment Number: 2402309128
+Enrollment Number: 2402309115
 
 Class/Section: BCA /5B
 
